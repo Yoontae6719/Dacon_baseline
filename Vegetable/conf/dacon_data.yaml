@@ -1,0 +1,24 @@
+# model param
+model_name: seq2seq
+lr : 0.0001
+batch_size : 128
+epoch : 50
+
+encoder_length : 28
+decoder_length : 28
+
+hidden_layer : 3
+hidden_dim : 128
+
+dropout : 0.2
+
+
+# data description
+target_n : 21
+
+# neptun path
+api_token : eyJhcGlfYWRkcmVzcyI6Imh0dHBzOi8vYXBwLm5lcHR1bmUuYWkiLCJhcGlfdXJsIjoiaHR0cHM6Ly9hcHAubmVwdHVuZS5haSIsImFwaV9rZXkiOiJkYjc5ZTEyZC02ZDQ3LTRmMzItODA2Zi03ODM3Y2E4ZDdiNTMifQ==
+neptune_path : FELAB/TES
+
+
+model: seq2seq
