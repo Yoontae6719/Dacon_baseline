@@ -33,7 +33,3 @@ python run.py
 python trainer.py --exp_name dacon_data --conf_file_file ./conf/dacon_data.yaml -seed 20205289
 
 
-
-<br>
-
-
