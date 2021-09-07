@@ -10,7 +10,7 @@
 </div>
 
 ## Description
-What it does
+Dacon baseline code
 
 ## How to run
 Install dependencies
